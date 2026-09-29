@@ -1,0 +1,896 @@
+The bank must comply with:
+
+Nepalese laws and regulations
+Nepal Rastra Bank (NRB) directives and circulars
+Applicable AML/CFT requirements
+Payment-system requirements
+Tax and accounting requirements
+Other applicable regulatory requirements
+The bank's own policies, procedures and internal controls
+
+Important: Where this handbook conflicts with a current law, NRB directive, circular, notice, or other binding requirement, the current legal/regulatory requirement takes precedence.
+
+PART I — REGULATORY AUTHORITIES
+2. Nepal Rastra Bank
+
+Nepal Rastra Bank is the principal regulator and central bank for Nepal's banking system.
+
+The Nepal Rastra Bank Act, 2058 establishes the legal framework for NRB and its functions.
+
+A commercial bank must therefore continuously monitor NRB:
+
+Acts
+Regulations
+Unified Directives
+Circulars
+Notices
+Guidelines
+Supervisory requirements
+Reporting requirements
+Enforcement actions
+
+The current NRB site contains the Unified Directive 2082 for Class A, B and C licensed institutions and subsequent amendments.
+
+PART II — CORE BANKING LAW
+3. Bank and Financial Institution Act
+
+The Banks and Financial Institutions Act, 2073 (BAFIA) is one of the principal laws governing banks and financial institutions in Nepal.
+
+The bank should maintain procedures covering:
+
+Licensing
+Banking operations
+Board of directors
+Management
+Shareholders
+Capital
+Governance
+Restrictions on transactions
+Loans and advances
+Investment
+Accounts and records
+Inspection and supervision
+Regulatory compliance
+Offences and penalties
+PART III — CORPORATE GOVERNANCE
+4. Board of Directors
+
+The bank must maintain an appropriate governance structure.
+
+The Board should oversee:
+
+Strategy
+Risk management
+Compliance
+Internal control
+Financial reporting
+Audit
+Capital
+Liquidity
+Major investments
+Major lending exposures
+AML/CFT
+Information security
+Management performance
+
+Board decisions should be properly:
+
+Documented
+Recorded in minutes
+Authorized
+Implemented
+Monitored
+5. Management Responsibilities
+
+Senior management should ensure:
+
+Regulatory compliance
+Effective internal controls
+Proper segregation of duties
+Risk management
+Accurate financial reporting
+Protection of customer information
+AML/CFT compliance
+Business continuity
+Cybersecurity
+Timely regulatory reporting
+PART IV — CUSTOMER & ACCOUNT RULES
+6. Customer Identification
+
+Before opening an account, the bank should establish the customer's identity in accordance with applicable KYC requirements.
+
+Customer information may include:
+
+Full name
+Date of birth
+Citizenship/National ID
+Address
+Contact information
+Occupation
+Employer/business
+Source of income
+Source of funds
+Identification documents
+Tax information where applicable
+7. Customer Due Diligence
+
+The bank should:
+
+Identify the customer.
+Verify the customer's identity.
+Understand the customer's business/activity.
+Understand expected account activity.
+Identify beneficial owners where applicable.
+Assess customer risk.
+Monitor transactions.
+Keep customer information updated.
+
+Higher-risk customers may require enhanced due diligence.
+
+8. Beneficial Ownership
+
+For companies and other legal entities, the bank should identify the persons who ultimately own or control the customer, as required by applicable AML/CFT rules.
+
+The bank should not rely solely on the name of a company or its authorized signatory when determining beneficial ownership.
+
+9. Politically Exposed Persons
+
+The bank should have procedures for identifying and managing PEP relationships according to applicable AML/CFT requirements.
+
+This includes appropriate:
+
+Identification
+Risk assessment
+Approval
+Monitoring
+Documentation
+PART V — AML/CFT
+10. Anti-Money Laundering
+
+AML/CFT is a core regulatory responsibility.
+
+Nepal's AML framework includes the applicable AML law, regulations, NRB directives and FIU requirements. NRB currently publishes AML/CFT directives specifically for Class A, B and C institutions.
+
+The bank must establish systems for:
+
+KYC
+CDD
+Enhanced Due Diligence
+Customer risk classification
+Transaction monitoring
+Suspicious transaction identification
+Suspicious transaction reporting
+Record keeping
+Sanctions screening
+Targeted financial sanctions
+PEP screening
+Beneficial ownership
+AML training
+Internal AML controls
+11. Suspicious Transactions
+
+Employees should escalate transactions that may indicate:
+
+Money laundering
+Terrorist financing
+Proliferation financing
+Fraud
+Criminal proceeds
+Tax-related suspicious activity
+Use of accounts inconsistent with customer profile
+
+The employee should follow the bank's established escalation and reporting procedure rather than independently confronting the customer.
+
+12. Transaction Monitoring
+
+The bank should monitor:
+
+Large transactions
+Unusual transaction patterns
+Rapid movement of funds
+Structuring
+Unexplained cash activity
+Transactions inconsistent with customer profile
+High-risk jurisdictions
+Suspicious cross-border activity
+Unusual use of personal accounts
+Other risk indicators
+
+Nepal's FIU publishes AML/CFT materials, typologies and risk-assessment information, including the 2026 National Risk Assessment.
+
+PART VI — TARGETED FINANCIAL SANCTIONS
+13. Sanctions Screening
+
+The bank should maintain procedures to screen relevant customers and transactions against applicable sanctions/targeted financial sanctions requirements.
+
+Controls should cover:
+
+Customer onboarding
+Existing customers
+Beneficial owners
+Transactions
+Payment instructions
+Relevant counterparties
+
+NRB has published targeted-financial-sanctions guidelines for financial institutions.
+
+PART VII — DEPOSIT OPERATIONS
+14. Account Opening
+
+No account should be opened without completing the required:
+
+Application
+Identification
+KYC
+Verification
+Risk assessment
+Documentation
+Approval
+15. Account Maintenance
+
+Changes to customer information should be appropriately verified.
+
+Examples:
+
+Address change
+Mobile number
+Email
+Signature
+Authorized signatory
+Nominee
+Business details
+16. Dormant Accounts
+
+The bank should identify dormant/inactive accounts according to applicable requirements and maintain appropriate controls over:
+
+Dormancy classification
+Monitoring
+Reactivation
+Customer verification
+Suspicious activity
+17. Account Closure
+
+Before closing an account:
+
+Verify the customer
+Confirm outstanding obligations
+Settle balances
+Cancel applicable instruments
+Complete required documentation
+Update the banking system
+Maintain records
+PART VIII — CASH & BRANCH OPERATIONS
+18. Cash Handling
+
+Cash employees must follow strict controls.
+
+Every cash transaction should be:
+
+Properly authorized
+Recorded
+Verified
+Reconciled
+
+The bank should control:
+
+Teller cash
+Vault cash
+Cash transfers
+Cash-in-transit
+Cash shortages
+Cash excesses
+End-of-day cash
+19. Teller Rules
+
+Tellers should:
+
+Verify customer identity where required
+Verify transaction documents
+Count cash accurately
+Check suspicious/counterfeit notes according to procedures
+Record transactions immediately
+Maintain confidentiality
+Balance cash at the end of the day
+PART IX — CHEQUES & CLEARING
+20. Cheque Processing
+
+Controls should cover:
+
+Signature verification
+Account status
+Sufficient funds
+Date
+Amount
+Alterations
+Stop-payment instructions
+Clearing procedures
+Fraud indicators
+PART X — CREDIT / LOANS
+21. Lending Principles
+
+Loans should be granted only after appropriate:
+
+Credit assessment
+Customer identification
+Repayment-capacity assessment
+Risk assessment
+Documentation
+Approval
+Security evaluation where applicable
+22. Credit Appraisal
+
+Credit assessment may consider:
+
+Customer income
+Business performance
+Cash flow
+Existing liabilities
+Credit history
+Repayment capacity
+Collateral
+Industry
+Purpose of loan
+Customer risk
+Existing exposure
+23. Loan Approval
+
+Approval must follow the bank's delegated authority.
+
+An employee should not:
+
+Approve their own loan
+Circumvent approval limits
+Split transactions to avoid authority limits
+Override controls without authorization
+24. Collateral
+
+Collateral documentation should be:
+
+Properly verified
+Legally enforceable
+Properly valued
+Documented
+Insured where required
+Monitored
+Periodically revalued where required
+25. Loan Monitoring
+
+After disbursement, the bank should monitor:
+
+Repayment
+Outstanding balance
+Interest
+Overdue amounts
+Financial condition
+Collateral
+Covenants
+Loan purpose
+Customer risk
+26. Problem Loans
+
+The bank must follow applicable NRB rules for:
+
+Loan classification
+Non-performing loans
+Provisioning
+Restructuring
+Rescheduling
+Recovery
+Write-off
+
+These requirements form part of the NRB regulatory framework for licensed banks.
+
+PART XI — FOREIGN EXCHANGE
+27. Foreign Currency Transactions
+
+Foreign exchange activities must comply with:
+
+NRB foreign-exchange regulations
+Applicable laws
+Licensing conditions
+Reporting requirements
+AML/CFT requirements
+
+The bank should maintain records for:
+
+Currency
+Exchange rate
+Amount
+Customer
+Purpose
+Transaction
+Supporting documents
+
+NRB maintains a licensed-entities framework for foreign-exchange transactions.
+
+PART XII — PAYMENT SYSTEMS
+28. Electronic Payments
+
+Banks involved in payment services must comply with applicable NRB payment-system requirements.
+
+The current Payment System Related Unified Directive, 2082 was issued by NRB in April 2026.
+
+Relevant areas include:
+
+Mobile banking
+Internet banking
+ATM
+POS
+QR
+Card payments
+Electronic transfers
+IPS
+RTGS
+Other payment services
+PART XIII — RTGS / IPS / CLEARING
+29. Payment Processing
+
+Banks must maintain controls for:
+
+Transaction authorization
+Settlement
+Reconciliation
+Failed transactions
+Duplicate transactions
+Customer disputes
+Fraud
+System availability
+Record keeping
+PART XIV — ACCOUNTING & FINANCIAL REPORTING
+30. Accurate Books
+
+The bank must maintain accurate records of:
+
+Assets
+Liabilities
+Equity
+Income
+Expenses
+Loans
+Deposits
+Investments
+Interest
+Provisions
+Tax
+Other financial transactions
+31. General Ledger
+
+Every financial transaction should ultimately be reflected correctly in the bank's accounting records.
+
+Controls should ensure:
+
+Transaction → Account → GL → Financial Statement
+
+is complete and accurate.
+
+PART XV — CAPITAL & LIQUIDITY
+32. Capital Adequacy
+
+The bank must maintain regulatory capital according to applicable NRB requirements.
+
+Capital monitoring should include:
+
+Regulatory capital
+Core capital
+Supplementary capital
+Risk-weighted assets
+Capital adequacy
+33. Liquidity
+
+The bank should continuously monitor its ability to meet obligations.
+
+This includes:
+
+Cash
+NRB balances
+Bank balances
+Liquid investments
+Deposits
+Withdrawals
+Maturities
+Funding requirements
+PART XVI — INVESTMENT
+34. Investment Controls
+
+Bank investments should comply with applicable:
+
+NRB limits
+Risk requirements
+Investment policies
+Approval requirements
+Accounting requirements
+Concentration limits
+
+The bank should maintain complete records of investments, valuation and income.
+
+PART XVII — RISK MANAGEMENT
+35. Major Risk Categories
+
+The bank should maintain systems for:
+
+Credit Risk
+
+Borrower fails to repay.
+
+Market Risk
+
+Loss caused by market movements.
+
+Liquidity Risk
+
+Inability to meet obligations.
+
+Operational Risk
+
+Loss caused by failed processes, people, systems or external events.
+
+Cyber/Technology Risk
+
+Loss or disruption caused by technology/security incidents.
+
+NRB issued a Risk Management Guidelines, 2026 notice in September 2026, so risk-management requirements should be checked against the latest version rather than relying on older guidance.
+
+PART XVIII — INTERNAL CONTROL
+36. Segregation of Duties
+
+One person should not normally control an entire transaction from beginning to end.
+
+For example:
+
+Maker → Checker → Approver
+
+should be separated according to the bank's control framework.
+
+37. Access Control
+
+Employees should receive only the system access required for their job.
+
+Controls should include:
+
+User ID
+Password
+MFA where applicable
+Role-based access
+Approval rights
+Access reviews
+Immediate removal of access after separation/transfer
+PART XIX — INFORMATION SECURITY
+38. Customer Data
+
+Customer information must be protected against:
+
+Unauthorized access
+Disclosure
+Modification
+Loss
+Theft
+
+Employees must not:
+
+Share passwords
+Share customer information unnecessarily
+Use unauthorized storage
+Send confidential data through unauthorized channels
+Access customer information without legitimate business purpose
+PART XX — FRAUD PREVENTION
+39. Fraud Controls
+
+Banks should have controls against:
+
+Internal fraud
+Forgery
+Fake documentation
+Account takeover
+Card fraud
+ATM fraud
+Digital fraud
+Loan fraud
+Identity fraud
+Payment fraud
+
+Suspicious incidents should be reported through the bank's internal escalation process.
+
+PART XXI — INTERNAL AUDIT
+40. Internal Audit
+
+Internal Audit should independently evaluate:
+
+Financial controls
+Branch operations
+Loans
+Deposits
+Cash
+AML/CFT
+IT
+Access control
+Compliance
+Reconciliation
+Risk management
+Fraud controls
+PART XXII — COMPLIANCE
+41. Regulatory Change Management
+
+The bank should maintain a process such as:
+
+NRB Circular Received
+
+↓
+
+Identify Requirement
+
+↓
+
+Identify Affected Department
+
+↓
+
+Assign Responsibility
+
+↓
+
+Implement
+
+↓
+
+Test
+
+↓
+
+Document Evidence
+
+↓
+
+Compliance Confirmation
+
+↓
+
+Management Reporting
+
+This is particularly important because NRB continues to issue amendments to its directives.
+
+PART XXIII — REGULATORY REPORTING
+42. Regulatory Returns
+
+The bank must submit applicable reports within prescribed formats and deadlines.
+
+These may cover:
+
+Loans
+Deposits
+Interest rates
+Capital
+Liquidity
+Investments
+Foreign exchange
+Branches
+Financial statements
+AML/CFT
+Credit information
+Payment systems
+Statistical information
+
+NRB's supervision materials include off-site data collection and regulatory reporting processes.
+
+PART XXIV — CUSTOMER PROTECTION
+43. Fair Treatment
+
+Customers should receive:
+
+Accurate information
+Clear terms and conditions
+Appropriate disclosures
+Proper complaint handling
+Protection of personal information
+Proper transaction records
+
+The bank should not mislead customers about:
+
+Interest rates
+Fees
+Charges
+Loan conditions
+Products
+Services
+PART XXV — COMPLAINT HANDLING
+44. Customer Complaints
+
+The bank should have a documented process:
+
+Complaint received
+
+→ Record
+
+→ Investigate
+
+→ Identify responsible department
+
+→ Resolve
+
+→ Communicate outcome
+
+→ Maintain evidence
+
+→ Escalate unresolved matters
+
+PART XXVI — EMPLOYEE CONDUCT
+45. Employee Responsibilities
+
+Every employee should:
+
+Follow laws
+Follow NRB requirements
+Follow bank policies
+Protect customer information
+Avoid conflicts of interest
+Protect bank assets
+Report suspicious activity
+Maintain accurate records
+Use systems only for authorized purposes
+46. Conflict of Interest
+
+Employees should disclose relevant conflicts.
+
+Employees should not use their position to obtain unauthorized:
+
+Loans
+Benefits
+Gifts
+Commissions
+Customer information
+Preferential treatment
+PART XXVII — RECORD KEEPING
+47. Banking Records
+
+The bank should maintain appropriate records for:
+
+Customer identification
+Transactions
+Loans
+Deposits
+Accounting
+AML/CFT
+Regulatory reporting
+Audit
+Compliance
+Legal matters
+
+Retention periods should follow the applicable law, NRB requirements and the bank's records-retention policy.
+
+PART XXVIII — BUSINESS CONTINUITY
+48. Business Continuity
+
+The bank should prepare for:
+
+Natural disasters
+Earthquakes
+Fire
+Power failure
+Network failure
+Cyberattack
+Data loss
+System failure
+Pandemic/emergency situations
+
+Plans should address:
+
+Backup systems
+Disaster recovery
+Alternate locations
+Data backup
+Critical staff
+Emergency communication
+Recovery procedures
+PART XXIX — REPORTING HIERARCHY
+
+A useful internal compliance structure is:
+
+                 BOARD
+                   │
+            Board Committees
+                   │
+           CEO / Management
+                   │
+      ┌────────────┼────────────┐
+      │            │            │
+   Risk       Compliance      Audit
+      │            │            │
+      └────────────┼────────────┘
+                   │
+        Business / Operations
+                   │
+     Branches / Departments
+PART XXX — DAILY COMPLIANCE CHECKLIST
+
+A bank employee/manager can use the following basic checklist:
+
+Daily
+
+☐ Cash balanced
+☐ Transactions posted correctly
+☐ Suspicious transactions escalated
+☐ System access functioning correctly
+☐ Exceptions reviewed
+☐ Payment reconciliation completed
+☐ ATM/payment exceptions checked
+☐ Required approvals completed
+☐ Regulatory alerts/circulars reviewed
+☐ Customer complaints recorded
+☐ End-of-day procedures completed
+
+PART XXXI — MONTHLY CHECKLIST
+
+☐ Loan portfolio reviewed
+☐ Deposit portfolio reviewed
+☐ NPL reviewed
+☐ Provision reviewed
+☐ Interest income/expense reviewed
+☐ GL reconciled
+☐ Suspense accounts reviewed
+☐ AML alerts reviewed
+☐ KYC exceptions reviewed
+☐ Regulatory returns completed
+☐ Risk indicators reviewed
+☐ Branch performance reviewed
+☐ Access rights reviewed where required
+
+PART XXXII — QUARTERLY / PERIODIC CHECKLIST
+
+☐ Regulatory reporting
+☐ Risk assessment
+☐ AML/CFT assessment
+☐ Internal control review
+☐ Credit portfolio review
+☐ Liquidity review
+☐ Capital review
+☐ Investment review
+☐ Compliance review
+☐ Internal audit follow-up
+☐ Board/management reporting
+
+PART XXXIII — THE "GOLDEN RULES" FOR BANK EMPLOYEES
+
+If you wanted to put only one page on every employee's desk, I would make it this:
+
+10 GOLDEN BANKING RULES
+
+1. Verify before you process.
+Never process a transaction or customer request without completing the required verification.
+
+2. Follow the approval hierarchy.
+Never bypass delegated authority.
+
+3. Protect customer information.
+Confidential information must only be accessed and shared for legitimate purposes.
+
+4. Follow KYC/AML requirements.
+Know the customer and understand unusual activity.
+
+5. Never manipulate records.
+Banking records must be accurate, complete and traceable.
+
+6. Separate duties.
+Maker, checker and approver responsibilities must be properly controlled.
+
+7. Report suspicious activity.
+Do not ignore unusual transactions, fraud indicators or control breaches.
+
+8. Reconcile.
+Cash, GL, payment systems and other relevant balances must be reconciled.
+
+9. Follow the latest regulation.
+Do not rely on an old circular when a newer NRB directive or amendment exists.
+
+10. When uncertain, escalate.
+Ask Compliance, Risk, Legal, Operations or the appropriate authorized department rather than guessing.
+
+Key official references
+
+For a real bank handbook, I would keep these official sources as the master references:
+
+NRB — Unified Directives and Circulars
+NRB — Banking & Financial Institution Regulation
+NRB — AML/CFT / FIU
+NRB — Money Laundering Prevention Supervision
+Nepal Law Commission — Bank and Financial Institutions Act 2073
+
+One important point: this should be treated as a handbook/summary, not the complete legal text. A complete bank compliance manual would need to map each rule to the specific NRB Unified Directive section, circular number, applicable Act/Regulation, responsible department, required evidence, reporting deadline, and penalty/non-compliance consequence. NRB's directives are actively amended, including during FY 2083/84, so that mapping is important for a production compliance manual.
